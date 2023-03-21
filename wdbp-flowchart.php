@@ -3,7 +3,7 @@
 * Plugin Name: Brad's Workday Business Process Flowchart
 * Plugin URI: https://www.yourwebsiteurl.com/
 * Description: Brad's Workday Business Process Flowchart
-* Version: 0.08
+* Version: 0.09
 * Author: Bradley Smith
 * Author URI: http://yourwebsiteurl.com/
 **/
